@@ -1,13 +1,25 @@
-# Data Science class Project
+# Vtuber Viewer Wealth Prediction
 
-## Vtuber viewer wealth prediction task
+This repository contains the code and documentation for a data science project focused on predicting Vtuber viewer wealth.
 
-The code for data collection is here: ![Data collection](data_collection_final_code.ipynb)
-The code for data analysis and prediction is here: ![Data Analysis](DS_Final_26002204605.ipynb)
+## Project Overview
 
-For more information please read the report. ![Project Report](DS_finalreport_26002204605.pdf)
+This project explores the relationship between Vtuber activities and viewer wealth, aiming to develop a predictive model.
+
+## Contents
+
+* **`data_collection_final_code.ipynb`**:
+    * This Jupyter Notebook contains the code used for collecting the necessary data.
+    * [View Data Collection Notebook](data_collection_final_code.ipynb)
+* **`DS_Final_26002204605.ipynb`**:
+    * This Jupyter Notebook contains the code for data analysis, feature engineering, and the final prediction model.
+    * [View Data Analysis Notebook](DS_Final_26002204605.ipynb)
+* **`DS_finalreport_26002204605.pdf`**:
+    * A report detailing the project process.
+    * [View Project Report](DS_finalreport_26002204605.pdf)
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-.
+This project is licensed under the MIT License. See the `LICENSE` file for more details.
+
+---
