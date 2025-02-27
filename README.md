@@ -2,7 +2,7 @@
 
 ## Vtuber viewer wealth prediction task
 
-![Project Report](banner.png)
+![Project Report](DS_finalreport_26002204605.pdf)
 
 This project was created as a personal tool to help me sing Japanese songs by providing romanized lyrics. While it's relatively easy to find romanized lyrics manually, I wanted to combine APIs from **Spotify**, **Genius**, and **YouTube** to create an all-in-one application that:
 
